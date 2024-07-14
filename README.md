@@ -4,7 +4,7 @@ The "SuperStore Sales Overview" dashboard provides a comprehensive analysis of s
 
 Approach:
 1. Define Objectives: Analyze total sales, profit, quantity, YOY performance, and regional variations.
-2. Select Metrics and Dimensions: Total Sales, Profit, Quantity, Sales by State, Monthly Sales by Segment, Sales by Manager and Region.
+2. Select Metrics and Dimensions: Total Sales, Profit, Quantity, Monthly Stats by State, Stats by Segment, Sales by Manager and Region.
 3. Create KPIs: Display current values and YOY changes for sales, profit, and quantity. Use line charts for trend analysis.
 4. Visualize Geographic Data: Use a filled map to show sales and profit by state, with size and color coding to indicate performance levels.
 5. Segment Analysis: Stacked area charts to show monthly sales trends by customer segment (Consumer, Corporate, Home Office).
